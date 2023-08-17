@@ -1,0 +1,56 @@
+Nuvem:
+
+A definição de nuvem pode parecer obscura, mas, basicamente, é um termo utilizado para descrever uma rede global de servidores, cada um com uma função única. A nuvem não é uma entidade física, mas uma vasta rede de servidores remotos ao redor do globo que são conectados e operam como um único ecossistema. Esses servidores são responsáveis por armazenar e gerenciar dados, executar aplicativos e fornecer conteúdos ou serviços, como transmissão de vídeos, webmail, software de produtividade ou mídias sociais. Em vez de acessar arquivos e dados do local ou de um PC, você pode acessá-los online, de qualquer dispositivo com acesso à Internet. As informações estarão disponíveis em praticamente qualquer lugar, a qualquer hora.
+As empresas utilizam quatro métodos diferentes para implantar recursos de nuvem. Há a nuvem pública, que compartilha recursos e oferece serviços ao público em geral da Internet, a  nuvem privada , que não é compartilhada e oferece serviços em uma rede interna privada (geralmente hospedada localmente), a nuvem híbrida , que compartilha serviços entre nuvens públicas e privadas de acordo com seu propósito, e a nuvem de comunidade, que compartilha recursos apenas entre organizações, como instituições governamentais.
+
+
+Algoritmo:
+
+Um algoritmo é um conjunto de etapas ou passos que nos permitem concluir uma tarefa especifica.
+Os algoritmos são construídos a partir de um conjunto de regras pré-definidas. Essas regras são utilizadas pelo computador para processar os dados e encontrar a solução para o problema
+Os programas informáticos funcionam através de um código que segue uma série de processos com uma ordem específica. Os computadores ou aplicativos podem usá-los para calcular as coisas de forma mais eficiente e rápida.
+A Netflix, por exemplo, desenvolveu um algoritmo de personalização que combina muito bem o que você quer ver com as novas sugestões que poderiam ser seus filmes ou séries favoritas. Essa plataforma usa algoritmos em sua programação como uma ferramenta fundamental para seus clientes.
+Outro exemplo de aplicativos é o Waze e o Google Maps, isso porque os telefones celulares transmitem aos servidores a posição e a velocidade com que os usuários estão se movimentando. É assim que é calculado a velocidade de um trajeto, saber sobre veículos mal estacionados, batidas, radares de velocidade e até mesmo buracos, que dão uma ideia do tempo que levará para chegar ao seu destino.
+Os algoritmos são extremamente úteis para a automação de tarefas. Isso significa que eles podem executar determinadas tarefas de forma mais eficiente do que seres humanos.
+Outra vantagem dos algoritmos é a sua capacidade de prever tendências. Isso significa que eles podem analisar grandes volumes de dados para identificar padrões ou comportamentos que se repetem com frequência. Dessa forma, é possível fazer previsões acerca do comportamento de determinados grupos ou sobre o desempenho de determinadas ações.
+
+
+Inteligência artificial:
+
+Inteligência Artificial (IA) é um ramo da ciência da computação que se concentra no desenvolvimento de sistemas e algoritmos capazes de realizar tarefas que normalmente exigem inteligência humana. Essas tarefas incluem: aprendizado; raciocínio; percepção; compreensão e geração de linguagem natural; reconhecimento de voz e imagem; tomada de decisão; e resolução de problemas complexos.
+Embora a IA tenha suas origens na década de 1950, foi nas últimas décadas que seu desenvolvimento acelerou, com avanços significativos em hardware, software e técnicas de aprendizado. Além disso, o volume de dados disponível também aumentou, possibilitando “ensinar” essas IAs de forma mais efetiva. 
+A IA  tem sido aplicada em uma ampla gama de situações, como: assistentes virtuais, veículos autônomos, análise de dados, medicina, finanças, entretenimento e muito mais, transformando a maneira como vivemos e trabalhamos.
+
+
+
+
+Jurimetria:
+
+Jurimetria é a estatística aplicada ao direito, em uma análise simples e direta. Tem sido utilizada em conjunto com softwares jurídicos num modelo de tentar prever resultados e oferecer (daí a questão estatística) probabilidades e valores envolvidos nestas análises.
+O mundo jurídico está mudando. E disso ninguém discorda. A utilização da tecnologia tem impactado de maneira significativa a advocacia. Já se foi o tempo em que o advogado precisava dominar ferramentas como editor de textos e planilhas (ao menos deveria). E nesse ínterim, surgiram novas ferramentas. Planilhas foram substituídas por softwares jurídicos. Muitos cálculos foram automatizados. Os documentos em papel deram lugar a arquivos digitais em nuvem. E surgiu, por exemplo, a jurimetria, que promete revolucionar a advocacia.
+A jurimetria proporciona condições de análises descritivas, diagnósticas e preditivas mais profundas. Além disso, consegue evidenciar dinâmicas sobre a causa raiz de situações identificadas como relevantes. E, quando utilizados recursos tecnológicos especializados, permite criar aprendizado e orientar ações práticas mitigatórias. Algumas plataformas permitem que você obtenha o detalhamento da tendência de um tribunal quanto à decisão de um agravo de instrumento, por exemplo. Dessa maneira, permite que o advogado tenha uma visão maior do seu processo. E possa tomar uma decisão, considerando os interesses do cliente, de forma mais consciente e estratégica. Do mesmo modo, permite que invista em determinadas ações, na medida em que, ao ver a tendência jurídica, consiga extrair uma conclusão acerca do cenário do mercado.
+
+Banco de dados:
+Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador. Um banco de dados é geralmente controlado por um sistema de gerenciamento de banco de dados (DBMS). Juntos, os dados e o DBMS, juntamente com os aplicativos associados a eles, são chamados de sistema de banco de dados, geralmente abreviados para apenas banco de dados.
+Os dados nos tipos mais comuns de bancos de dados em operação atualmente são modelados em linhas e colunas em uma série de tabelas para tornar o processamento e a consulta de dados eficientes. Os dados podem ser facilmente acessados, gerenciados, modificados, atualizados, controlados e organizados. A maioria dos bancos de dados usa a linguagem de consulta estruturada (SQL) para escrever e consultar dados.
+
+O que é SQL (Structured Query Language, Linguagem de consulta estruturada)?
+SQL é uma linguagem de programação usada por quase todos os bancos de dados relacionais para consultar, manipular e definir dados e fornecer controle de acesso. O SQL foi desenvolvido pela primeira vez na IBM nos anos 1970, com a Oracle como principal contribuinte, o que levou à implementação do padrão SQL ANSI; o SQL estimulou muitas extensões de empresas como IBM, Oracle e Microsoft. Embora o SQL ainda seja amplamente usado hoje em dia, novas linguagens de programação estão começando a aparecer.
+
+Referências:
+
+
+https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-the-cloud
+/
+https://edu.gcfglobal.org/pt/informatica-avancada/o-que-e-algoritmo/1/#
+
+https://www.alura.com.br/artigos/inteligencia-artificial-ia?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conteúdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=645853715422&hsa_src=g&hsa_tgt=aud-409949667324:dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIy8PnqN7jgAMVGOmRCh04aQQDEAAYASAAEgJ-_fD_Bw
+
+
+https://www.projuris.com.br/blog/jurimetria/?amp 
+
+https://www.oracle.com/br/database/what-is-database/
+
+
+
+
