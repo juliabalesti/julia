@@ -1,0 +1,30 @@
+1.A)Relação entre a LGPD e os Data Centers:
+
+A Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº. 13.709/18) estabelece regras para uso, coleta, armazenamento e compartilhamento de dados dos usuários por empresas privadas e públicas. O objetivo principal é garantir maior segurança, privacidade e transparência no uso de informações pessoais. 
+A LGPD se aplica a qualquer pessoa física ou jurídica que realize atividades de Tratamento de Dados Pessoais (em meio físico ou virtual) em território brasileiro, ofereça bens ou serviços para Titulares localizados no Brasil ou tenha coletado os Dados Pessoais no Brasil.
+Falando de forma simples, podemos definir um data center como um HD gigante onde estão armazenadas praticamente todas as informações da internet, falando de uma forma mais complexa, temos um data center como um ambiente super preparado e projetado para concentrar servidores, equipamentos de processamento e armazenamento de dados.
+Podemos dizer que um data center é o coração da empresa, pois nele estão contidas informações extremamente importantes que literalmente movem a empresa.
+A Lei Geral de Proteção de Dados (LGPD) obriga as organizações a serem mais responsáveis com o gerenciamento das informações armazenadas. Esse aspecto mostra a necessidade de um cuidado especial com a administração do Data Center.
+Afinal, esse recurso tem como papel hospedar dados e disponibilizá-los de acordo com as necessidades do público-alvo. Neste artigo, vamos mostrar como a LGPD impacta o setor de Data Centers. 
+
+
+
+
+
+
+B.1)Formatos de arquivos de dados proprietários e abertos
+
+Formato de arquivo é a forma usada por determinadas aplicações computacionais para reconhecer os dados gerados e editados por eles.[1] Cada aplicativo tem um formato específico de arquivo digital gerado, padronizado ou não, para que possa tratar as informações contidas neste, que posteriormente poderão ser modificados, impressos ou, transportados.
+
+Exemplos de fomatos de arquivos:
+Arquivos de imagem: As imagens podem ter diferentes extensões, e isso pode ter impacto com a utilização que você dará para ela.Por exemplo, uma imagem PNG pode carregar um fundo transparente, muito útil para aplicações como colagens.Já o JPG sempre irá salvar com fundo branco ou preto, caso você tenha um original transparente.
+Arquivos de som: para arquivos de áudio, como trilhas e músicas, as extensões mais conhecidas e utilizadas pelos usuários são o MP3, WMA e WAV.
+Arquivos compactados: Alguns formatos de arquivos compactados mais conhecidos são o ZIP e o RAR.
+
+
+
+
+B.2) discuta as implicações relacionadas a dados publicos:
+
+
+LGPD define, por exemplo, que uma organização pode, sem precisar pedir novo consentimento, tratar dados tornados anterior e manifestamente publicos pelo titular. Porém, se uma organização quiser compartilhar esses dados com outras, ai ela deverá obter outro consentimento para esse fim - resguardadas as hipóteses de dipensa previstas na lei. A LGPD também se relaciona com a Lei de Acesso à informação (LAI) e com princípios constitucionais,  como o de que “todos têm direito a receber os órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado”.
